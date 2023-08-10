@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the basics of exploratory data analytics, regression, classification, cluster analysis and advanced data science, such as deep learning.**
 
-- 👯 I’m looking to collaborate on **any of the presented data science projects, or open to any other projects.**
+- I’m looking to collaborate on **any of the presented data science projects, or open to any other projects.**
 
 - 💬 Ask me about **anything data science related, and I'll be happy to help**
 
